@@ -1,15 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Al Mamun
 =========================================================================================================================================
 
-Backend Engineer (PHP, Laravel, Go, AWS, Docker, K8s)
------------------------------------------------------
+### Backend Engineer (PHP, Laravel, Go, AWS, Docker, K8s)
 
-* 🌍  I'm based in Dhaka (UTC+6) - Open for 4h +/- of my current time zone
-* 🚀  I'm currently working on [JoulesLabs](https://jouleslabs.com)
-* 🧠  I'm learning Distributed Systems
-* 🤝  I'm open to collaborating on SaaS, Tools, and IoT applications.
-* ⚡  Critical Thinker, Love to solve on pen and paper first, Adopt Quickly
-* 🥇 Top projects : [Crowdfundly](https://crowdfundly.com), [ReviewXpo](https://reviewxpo.com), [DeedSign](https://deedsign.com),
+🌍 **Location:** Dhaka (UTC+6), open to roles within ±4 hours of my time zone  
+🚀 **Current Role:** Building tech at [JoulesLabs](https://jouleslabs.com)  
+🧠 **Learning Focus:** Distributed Systems  
+🤝 **Collaborations:** Always interested in working on SaaS, Tools, and IoT projects
+
+---
+
+⚡ **About Me:** I’m a critical thinker who loves to tackle challenges on pen and paper first. I'm quick to adapt and always eager to learn new technologies and improve.
+
+🥇 **Highlighted Projects:**  
+- [ReviewXpo](https://reviewxpo.com) – A platform for detailed reviews  
+- [DeedSign](https://deedsign.com) – Digital document signing made simple
+- [Crowdfundly](https://crowdfundly.com) – A modern crowdfunding solution  
+  
 
 <a href="https://www.github.com/azonedev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/azonedev?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
